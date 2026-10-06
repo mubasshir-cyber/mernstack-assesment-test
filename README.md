@@ -2,6 +2,9 @@
 
 A clean, modern, and fully responsive navigation bar built with **React** and **Pure CSS**. Designed with custom layouts for **Desktop**, **Tablet**, and **Mobile** viewports.
 
+🔗 **Live Demo**: [https://responsive-navbar-mernstack.netlify.app/](https://responsive-navbar-mernstack.netlify.app/)  
+📂 **GitHub Repository**: [https://github.com/mubasshir-cyber/mernstack-assesment-test](https://github.com/mubasshir-cyber/mernstack-assesment-test)
+
 ---
 
 ## ✨ Features
@@ -47,8 +50,11 @@ exam/
 
 ## 🚀 Getting Started
 
-### 1. Clone or Open the Project
-Ensure you have [Node.js](https://nodejs.org/) (v18 or higher recommended) installed.
+### 1. Clone the Repository
+```bash
+git clone https://github.com/mubasshir-cyber/mernstack-assesment-test.git
+cd mernstack-assesment-test
+```
 
 ### 2. Install Dependencies
 ```bash
